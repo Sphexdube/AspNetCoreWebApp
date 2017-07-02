@@ -1,0 +1,9 @@
+C:\Users\Siphesihle\documents\visual studio 2017\Projects\AspNetCoreWebApp\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+C:\Users\Siphesihle\documents\visual studio 2017\Projects\AspNetCoreWebApp\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+C:\Users\Siphesihle\documents\visual studio 2017\Projects\AspNetCoreWebApp\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+C:\Users\Siphesihle\documents\visual studio 2017\Projects\AspNetCoreWebApp\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\Siphesihle\documents\visual studio 2017\Projects\AspNetCoreWebApp\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+C:\Users\Siphesihle\documents\visual studio 2017\Projects\AspNetCoreWebApp\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Siphesihle\documents\visual studio 2017\Projects\AspNetCoreWebApp\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+C:\Users\Siphesihle\documents\visual studio 2017\Projects\AspNetCoreWebApp\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\Siphesihle\documents\visual studio 2017\Projects\AspNetCoreWebApp\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
